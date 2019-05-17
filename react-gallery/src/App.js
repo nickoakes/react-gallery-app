@@ -11,7 +11,6 @@ import {
   BrowserRouter,
   Route,
   Switch,
-  Link
 } from 'react-router-dom';
 import axios from 'axios';
 
